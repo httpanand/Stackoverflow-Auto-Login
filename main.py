@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 
-driver = webdriver.Chrome(executable_path=r'C:\Users\User\.wdm\chromedriver\chromedriver.exe') 
+driver = webdriver.Chrome(executable_path=r'your chrome driver path') 
 
 driver.get("https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f")
 
