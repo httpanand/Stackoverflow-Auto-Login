@@ -1,2 +1,1 @@
-# Stackoverflow-Auto-Login
-Automation of logging in to stackoverflow
+<h1 align="center"> Stackoverflow-Auto-Login  <img height="20px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/> <img height="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"/> </h1> <h3> A simple web automation script which can login to stackoverflow automatically using python selenium .
